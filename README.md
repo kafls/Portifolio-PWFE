@@ -1,3 +1,6 @@
+![image](https://github.com/kafls/Portifolio-PWFE/assets/129201648/a3637471-e920-4fde-8b37-3039f69bf87d)
+
+
 # Portifólio-PWFE
 Oiii 👋
 Este repositório contém as atividades realizadas durante o segundo semestre de 2023 na unidade curricular de Programação Web Front-End no SESI SENAI de Itapeva.
