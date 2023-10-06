@@ -13,4 +13,4 @@ Trabalho em duplas
 
 ## Autora
 - Karen Fernanda Muzel Reis
-- - Contato: karenreis@aluno.senai.br
+- Contato: karenreis@aluno.senai.br
