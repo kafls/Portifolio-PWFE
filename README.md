@@ -16,4 +16,5 @@ Este repositório contém as atividades realizadas durante o segundo semestre de
 - Karen Fernanda Muzel Reis
 - Contato: karenreis@aluno.senai.br
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F11419&psig=AOvVaw2rROGVS118jfCnSLdPNAPP&ust=1696698041276000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDq6Yn04YEDFQAAAAAdAAAAABAI" width="50px">
+<img src="![image](https://github.com/kafls/Portifolio-PWFE/assets/129201648/7b8db0eb-0c2e-4056-ac90-06339ca890b2)
+" width="50px">
