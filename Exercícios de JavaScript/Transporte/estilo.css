@@ -1,0 +1,64 @@
+/* DOCUMENTO CSS */
+
+/*RESET*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*border: 1px red solid;*/
+}
+
+body {
+    background-color: #026773;
+    color: #026773;
+    font: 14pt Arial;
+    text-align: center;
+}
+.box {
+    width: 70%;
+    height: 120%;
+    margin: 50px auto;
+    border: 2px black solid;
+    background-color: #F5F5F4;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #000A;
+    text-align: center;
+}
+
+input {
+    color: black;
+    height: 30px;
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+#resp {
+    font-size: large;
+    color: #3CA6A6;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 160px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: #026773;
+    margin: 10px 4px;
+} 
+
+.voltar button{
+    background-color: #F5F5F4;
+    color: #3CA6A6;
+    font-size: 23px;
+    width: 200px;
+    height: 55px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px #000A;
+    transition: ease .25s;
+}
+
+.voltar button:hover{transform:scale(1.1); -webkit-transform:scale(1.1);}
+

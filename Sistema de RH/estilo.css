@@ -1,0 +1,129 @@
+/* DOCUMENTO CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px black solid; */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d3d3d3;
+    text-align: center;
+    color: black;
+}
+
+a{
+    width: 100%;
+    text-decoration: none;
+}
+
+.boxs {
+    width: 30%;
+    height: 30%;
+    margin: 5% auto;
+    padding: 20px;
+    background-color: #a1a1a1;
+    border-radius: 1em;
+    align-items: center;
+}
+
+.menu {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.option {
+    margin: 2% 3%;
+    width: 40%;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: large;
+}
+
+.button{
+    background-color: #3498db;
+    color: white;
+    border-radius: 15px;
+    width: 30%;
+    height: 30px;
+    margin: 10px;
+}
+
+.button:hover {
+    background-color: #2980b9;
+}
+
+.buttonvermelho{
+    background-color: #D90D1E;
+    color: white;
+    border-radius: 15px;
+    width: 30%;
+    height: 30px;
+    margin: 10px;
+}
+
+.buttonvermelho:hover{
+    background-color: darkred;
+}
+
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin: 1% auto;
+}
+
+.form h1 {
+    padding-bottom: 30px;
+}
+
+.form-row {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.form-column {
+    margin: 0% 2%;
+    flex:1;
+}
+
+.textos {
+    margin: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+    padding: 1em;
+    margin-bottom: 1.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+@media screen and (max-width: 768px) {
+    .form-row{
+        flex-direction: column;
+    }
+    .container{
+        margin: 5% 2%;
+    }
+    .option{
+        min-width: max-content;
+        font-size: small;
+    }
+}
